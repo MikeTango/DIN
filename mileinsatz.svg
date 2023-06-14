@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="106mm"
+   height="26mm"
+   viewBox="0 0 106 26"
+   version="1.1"
+   id="svg3719"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="mileinsatz.svg">
+  <defs
+     id="defs3713" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="209.61823"
+     inkscape:cy="104.03543"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="-1.8510541,26.000001"
+       orientation="0,1"
+       id="guide3733"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-5.2478581e-08,5.8543205"
+       orientation="1,0"
+       id="guide3735"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3.01827,28.131691"
+       orientation="1,0"
+       id="guide3749"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.645744,23.021921"
+       orientation="0,1"
+       id="guide3751"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4.002189,23.021931"
+       orientation="1,0"
+       id="guide3753"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4.200626,21.996671"
+       orientation="0,1"
+       id="guide3755"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3716">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.00048,-47.000311)">
+    <path
+       style="fill:#ffcc00;stroke-width:0.34725064"
+       d="m 20.00048,47.000311 v 26 h 106 v -26 z"
+       id="rect3723"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#000000;stroke-width:0.24153042"
+       id="rect3746"
+       width="100"
+       height="20"
+       x="23.018749"
+       y="49.97839"
+       rx="1"
+       ry="0.83333331" />
+    <rect
+       id="rect3725"
+       width="98"
+       height="18"
+       x="24.002668"
+       y="51.003639"
+       style="fill:#ffcc00;stroke-width:0.31867278"
+       rx="0.5"
+       ry="0.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="73.155334"
+       y="59.213039"
+       id="text3729"><tspan
+         sodipodi:role="line"
+         id="tspan3727"
+         x="73.155334"
+         y="59.213039"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Capture it';-inkscape-font-specification:'Capture it';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         dx="0"
+         dy="0">Nicht für den</tspan><tspan
+         sodipodi:role="line"
+         x="73.155334"
+         y="72.603439"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Capture it';-inkscape-font-specification:'Capture it';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan3731"
+         dy="-5.0799999">militärischen Einsatz</tspan></text>
+  </g>
+</svg>
