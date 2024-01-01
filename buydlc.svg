@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg869"
+   width="600"
+   height="600"
+   viewBox="0 0 600 600"
+   sodipodi:docname="buydlc.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata875">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs873" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     id="namedview871"
+     showgrid="false"
+     inkscape:zoom="0.49968879"
+     inkscape:cx="691.35"
+     inkscape:cy="223.5619"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="oben">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#020000;fill-opacity:1;stroke:none;stroke-width:4.71360207;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect919-8"
+       width="600"
+       height="600"
+       x="0"
+       y="0" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.11338583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect896"
+       width="481.13208"
+       height="51.650944"
+       x="63.679245"
+       y="56.698112" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#00d900;stroke-width:0.11338583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect896-3"
+       width="481.13208"
+       height="51.650944"
+       x="63.679245"
+       y="488.61337" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:260.67681885px;line-height:125%;font-family:Aurebesh_Deutsch;-inkscape-font-specification:'Aurebesh_Deutsch Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.22192264"
+       x="293.90781"
+       y="290.0033"
+       id="text923"><tspan
+         sodipodi:role="line"
+         id="tspan921"
+         x="293.90781"
+         y="290.0033"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.22192264">BUY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:272.65036011px;line-height:125%;font-family:Aurebesh_Deutsch;-inkscape-font-specification:'Aurebesh_Deutsch Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.27804852"
+       x="298.58698"
+       y="481.02344"
+       id="text923-5"><tspan
+         sodipodi:role="line"
+         id="tspan921-9"
+         x="298.58698"
+         y="481.02344"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.27804852">DLC</tspan></text>
+  </g>
+</svg>
