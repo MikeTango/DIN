@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In . SVG Version: 6.0.0 Build 78)  -->
+<!-- Created by Cary Bass http://commons.wikipedia.com/wiki/User:Bastique on January 20, 2006 -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="623.92822"
+   height="548.17328"
+   id="radioactive"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   sodipodi:docname="stolpergefahr.svg"
+   sodipodi:docbase="C:\Dokumente und Einstellungen\henning\Desktop\Sicherheitszeichen">
+  <defs
+     id="defs58" />
+  <sodipodi:namedview
+     inkscape:window-height="966"
+     inkscape:window-width="1272"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.4064896"
+     inkscape:cx="311.9641"
+     inkscape:cy="274.08664"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="radioactive"
+     inkscape:document-units="mm"
+     gridspacingx="0.25mm"
+     gridspacingy="0.25mm"
+     grid_units="mm" />
+  <metadata
+     id="metadata60">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g2907"
+     transform="translate(15.37952,-9.607801)">
+    <path
+       id="path2889"
+       d="M 295.84375,9.625 C 280.56684,9.7059068 270.50089,23.813625 265.0625,36.5 C 172.18368,198.06519 78.058421,358.93364 -14,520.9375 C -20.829463,540.11547 -1.0883658,561.5426 18.53125,557.21875 C 207.86361,556.9309 397.20493,557.89808 586.53125,556.65625 C 606.05502,553.39207 615.65348,526.10648 602.46875,511.28125 C 507.43559,347.23157 413.38004,182.58741 317.6875,18.9375 C 312.13891,12.888602 304.08329,9.328277 295.84375,9.625 z "
+       style="fill:yellow" />
+    <g
+       transform="translate(-3.188547,21.62979)"
+       id="g4">
+      <path
+         id="sign_border"
+         d="M 597.6,499.6 L 313.8,8 C 310.9,3 305.6,0 299.9,0 C 294.2,0 288.9,3.1 286,8 L 2.2,499.6 C -0.7,504.6 -0.7,510.7 2.2,515.6 C 5.1,520.6 10.4,523.6 16.1,523.6 L 583.7,523.6 C 589.4,523.6 594.7,520.5 597.6,515.6 C 600.5,510.6 600.5,504.5 597.6,499.6 z " />
+      <polygon
+         points="43.9,491.5 299.9,48.2 555.9,491.5 43.9,491.5 "
+         id="sign_bg"
+         style="fill:#f7f619" />
+    </g>
+  </g>
+  <g
+     id="g1943"
+     style="fill:black;stroke:none"
+     transform="matrix(1.105976,0,0,1.105976,727.4065,-13.40223)">
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccccc"
+       id="path1934"
+       d="M -504.2247,324.30588 L -489.57917,308.82346 L -460.28811,338.53297 L -430.99705,308.82346 L -356.09562,281.20618 L -374.50714,269.07131 L -424.30195,286.64595 L -432.67082,266.1422 L -371.57804,244.80157 L -328.89677,271.16353 C -333.68038,288.09015 -330.39145,302.40896 -313.8328,312.58946 L -334.33654,348.99406 L -298.35038,371.59002 L -308.81148,390.41999 L -365.30138,357.36294 L -347.3083,325.56121 L -395.42933,341.88052 L -384.13135,371.59002 L -435.18148,429.33526 L -452.33768,415.52662 L -409.65642,367.82403 L -423.04661,332.67476 L -460.28811,370.33469 L -504.2247,324.30588 z "
+       style="fill:black;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="rect1936"
+       d="M -424.6875,420.5625 L -424.6875,440.625 L -504.21875,440.625 L -504.21875,449.84375 L -295,449.84375 L -295,440.625 L -366.53125,440.625 L -366.53125,420.5625 L -424.6875,420.5625 z "
+       style="fill:black;fill-opacity:1;stroke:none;stroke-width:0.63779527;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       transform="translate(1.349223,3.189073)"
+       d="M -277.32669 280.96576 A 24.96063 24.96063 0 1 1  -327.24795,280.96576 A 24.96063 24.96063 0 1 1  -277.32669 280.96576 z"
+       sodipodi:ry="24.96063"
+       sodipodi:rx="24.96063"
+       sodipodi:cy="280.96576"
+       sodipodi:cx="-302.28732"
+       id="path1941"
+       style="fill:black;fill-opacity:1;stroke:none;stroke-width:0.63779527;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc" />
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="665" height="540"
+fill="#FF2" stroke="#000" stroke-linejoin="round">
+<path stroke="#FF2" stroke-width="48" d="m332,24 284,492H48z"/>
+<path stroke-width="32" d="m332,24 284,492H48z"/>
+<path stroke-width="28" stroke-linecap="round" d="m332,233V475M228
+294l208,120m0-120-208,120M261, 271v40m0,86v40m142-166v40m0,86v40M226
+331l35-20m71-42l35-20m-70,0l35,20m71,42l35,20M226,377l35,20m71,42l35
+20m-70,0l35-20m71-42l35-20"/>
+</svg>

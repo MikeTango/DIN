@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="106.29921"
+   height="106.29921"
+   viewBox="0 0 1 1"
+   id="svg17052">
+  <defs
+     id="defs17131" />
+  <title
+     id="title17054">SVG drawing</title>
+  <desc
+     id="desc17056">This was produced by version 4.1 of GNU libplot, a free library for exporting 2-D vector graphics.</desc>
+  <polygon
+     points="182.85,519.35 210.04,519.35 210.04,546.5 182.85,546.5 182.85,519.35 "
+     transform="matrix(3.616548e-2,0,0,-3.621881e-2,-6.604528,19.80191)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#ff7d00;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.4603689;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="polygon17062" />
+  <polygon
+     points="196.3,529.82 189.93,523.47 185.65,527.75 192.03,534.16 185.91,540.41 190.31,544.81 196.58,538.48 202.93,544.79 207.31,540.41 200.9,533.92 207.1,527.95 202.69,523.5 196.3,529.82 "
+     transform="matrix(3.616548e-2,0,0,-3.621881e-2,-6.605794,19.84592)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="polygon17128" />
+  <path
+     d="M 0.91184386,0.83855369 L 0.91184386,0.82102131 L 0.9270894,0.82102131 L 0.9270894,0.83855369 L 0.91184386,0.83855369 z M 0.91184386,0.94518781 L 0.91184386,0.85523909 L 0.9270894,0.85523909 L 0.9270894,0.94518781 L 0.91184386,0.94518781 z "
+     style="font-size:0.17346042px;font-style:normal;font-weight:normal;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     id="text1883" />
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" height="400px" width="400px" viewBox="0 0 200 200" version="1.1">
+	<rect style="fill :#ffffff; stroke :none; fill-rule :nonzero;" y="0" x="0" height="200" width="200" />
+	<rect style="fill :#008855; stroke :none; fill-rule :nonzero;" y="5" x="5" height="190" width="190" />
+	<path style="fill :#ffffff; stroke :none;" d="M 50.25,98.594 C 31.216,104.79 16.642,116.93 15,135 V 185 H 150 V 135 C 148.36,116.93 133.78,104.79 114.75,98.594 L 82.562,175 50.25,98.594 z" />
+	<path style="fill :#008855; stroke :none;" d="M 46,130.69 C 40.109,130.69 35.312,135.46 35.312,141.35 35.312,147.23 40.109,152 46,152 51.891,152 56.656,147.23 56.656,141.34 56.656,135.45 51.891,130.68 46,130.68 z M 46,137.85 C 47.933,137.85 49.5,139.41 49.5,141.35 49.5,143.28 47.933,144.85 46,144.85 44.067,144.85 42.5,143.28 42.5,141.35 42.5,139.41 44.067,137.85 46,137.85 z" />
+	<path style="fill :#ffffff; stroke :none;" d="M 150,16.5 150,34 132.5,34 132.5,49 150,49 150,66.5 165,66.5 165,49 182.5,49 182.5,34 165,34 165,16.5 150,16.5 z" />
+	<path transform="matrix(1.1,0,0,1.2144,-11,-20.372)" style="fill:#ffffff; stroke:none;" d="M 110,70 A 25,25 0 1 1 60,70 25,25 0 1 1 110,70 z" />
+    <path style="fill :none; stroke :#ffffff; stroke-width :6; stroke-linecap :round; stroke-linejoin :round;" d="M 47.961,70 C 55,130 110,130 115,70" />
+    <path style="fill :none; stroke :#008855; stroke-width :4; stroke-linecap :round; stroke-linejoin :round;" d="M 46.961,152 C 50.14,179.1 70.12,185.18 80.286,170.24" />
+    <rect style="fill :#008855; fill-rule :nonzero;" width="5" height="40" x="120" y="145" />
+    <path style="fill :#ffffff; fill-rule :nonzero;" d="M 79,117 85,117 85,181 79,166 z" />
+</svg>
